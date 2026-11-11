@@ -83,3 +83,4 @@ npm run deploy
 - `resvg-wasm` panics on off-canvas layers (element `opacity`, `clip-path`) and on text inside `opacity` groups. The world layer therefore uses `fill-opacity`/`stroke-opacity`, and frame mode avoids group opacity. Keep that in mind when adding art.
 - Fonts: Inter (SIL OFL), subset to Latin + Turkish characters (`fonts/`).
 # commitsto-space
+# commitsto-space
